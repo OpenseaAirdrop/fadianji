@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
-url: #Your url here
+url: https://doc.fadian.me
 baseurl: /project
 
 # variables
-name: Your Site Name
-description: Your description here
+name: 发电姬OS - doc
+description: 发电姬OS - doc
 google_verification: null
 
 
