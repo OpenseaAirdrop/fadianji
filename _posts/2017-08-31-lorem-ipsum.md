@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "获取密码"
-tags: tag1 tag2 tag3 tag4
+tags: 使用指南
 ---
 
 ## Lorem Ipsum
