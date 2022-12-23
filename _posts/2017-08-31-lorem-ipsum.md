@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Lorem Ipsum"
+title: "获取密码"
 tags: tag1 tag2 tag3 tag4
 ---
 
