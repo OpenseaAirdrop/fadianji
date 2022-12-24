@@ -8,7 +8,7 @@ tags: doc
 
 * [关注微信公众号(秒获取)](#Weixin)
 * [1元购买(秒获取)](#Buy)
-* [关注推特](#Twitter)
+* [关注推特并发送私信](#Twitter)
 * [关注电报频道(秒获取)](#Telegram)
 * [发送电子邮箱(秒获取)](#Horizontal)
 
@@ -16,7 +16,8 @@ tags: doc
 
 # <a name="Weixin"></a>关注微信公众号(秒获取)
 
-### 微信搜索关注“春不思雨”或者扫描下方二维码
+## 微信搜索关注“春不思雨”或者扫描下方二维码发送“fadian”获取最新密码
+![Not so big](../../img/weixinqr.png)
 
 Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat commodo id sunt. Nostrud enim ad commodo incididunt cupidatat in ullamco ullamco Lorem cupidatat velit enim et Lorem. Ut laborum cillum laboris fugiat culpa sint irure do reprehenderit culpa occaecat. Exercitation esse mollit tempor magna aliqua in occaecat aliquip veniam reprehenderit nisi dolor in laboris dolore velit.
 
