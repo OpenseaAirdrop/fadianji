@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "获取密码"
-tags: doc
+tags: docA
 ---
 
 ## Lorem Ipsum
