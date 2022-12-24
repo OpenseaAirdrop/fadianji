@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Markdown Test Page"
+title: "获取密码"
 tags: doc
 ---
 
